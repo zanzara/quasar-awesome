@@ -108,6 +108,7 @@ Do not forget to read the official [blog](https://blog.quasar.dev/).
 
 | Name | Description |
 | --- | --- |
+| [storagedirective](https://www.npmjs.com/package/quasar-app-extension-storagedirective) | Storagedirective is an app extension kit only, that adds a custom Vue directive to make `v-model` vars easy persistent |
 | [qmodeltd](https://www.npmjs.com/package/quasar-app-extension-qmodeltd) | QModelTd is an UI app extension for Quasar that simplifies the usage of editable or selectable QTd |
 | [remote-dev-tools](https://github.com/bloodf/quasar-remote-dev-tools) | Vue remote devtools for Cordova and Electron apps made with Quasar |
 | [alpaca-forms](https://github.com/221B-io/quasar-alpaca-form-builder#readme) | Alpaca form builder built for Quasar |
